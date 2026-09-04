@@ -23,7 +23,7 @@ email: johanna.ungerstedt@liu.se
 description: >- # this means to ignore newlines until "baseurl:"
   Translational Hematology at Linkoping University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ungerstedtlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ungerstedt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ungerstedt
 
 markdown: kramdown
