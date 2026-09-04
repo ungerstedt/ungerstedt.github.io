@@ -1,0 +1,33 @@
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px 30px;
+  margin-top: 30px;
+}
+
+.team-member {
+  text-align: center;
+}
+
+.team-member img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.team-member h3 {
+  margin: 5px 0;
+  font-size: 1.2rem;
+}
+
+.team-member .role {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+.alumni-link {
+  margin-top: 50px;
+}
